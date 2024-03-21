@@ -8,10 +8,11 @@
 
 <div align="center">
   <a href="https://github.com/Alexandrefelix07">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Alexandrefelix07&theme=codeSTACKr&hide_border=true" style="max-width: 400px; height: 200px;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alexandrefelix07&layout=compact&langs_count=7&theme=codeSTACKr&hide_border=true" style="max-width: 400px; height: 200px;">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Alexandrefelix07&theme=codeSTACKr&hide_border=true" style="max-width: 400px; height: 200px; pointer-events: none;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alexandrefelix07&layout=compact&langs_count=7&theme=codeSTACKr&hide_border=true" style="max-width: 400px; height: 200px; pointer-events: none;">
   </a>
 </div>
+
 
 <div align="center">
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
