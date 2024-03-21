@@ -8,7 +8,7 @@
 
 <div align="center">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=Alexandrefelix07&theme=codeSTACKr&hide_border=true" style="max-width: 400px; height: 200px; pointer-events: none;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alexandrefelix07&layout=compact&langs_count=7&theme=codeSTACKr&hide_border=true" style="max-width:400px; height: 200px; pointer-events: none;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alexandrefelix07&layout=compact&langs_count=7&theme=codeSTACKr&hide_border=true" style="max-width: 400px; height: 200px; pointer-events: none;">
 </div>
 
 <div align="center">
@@ -17,10 +17,47 @@
   </a>
 </div>
 
-<div style="display: inline_block"><br>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=flutter,dart,html,css,js,dotnet,nodejs,cpp,php,mysql,postgres" />
-  </a>
-</p>
+<div align="center">
+    <details>
+        <summary><b>🛠️ Development Stack</b></summary>
+        <table>
+          <tr>
+            <th align="right">Category</th>
+            <th align="left">Technologies</th>
+          </tr>
+          <tr>
+            <td align="right">Core</td>
+            <td>
+              <img src="https://skillicons.dev/icons?i=js,dotnet,nodejs,cpp,php,java" height="35px"/>
+              <img src="https://img.icons8.com/color/48/000000/delphi-ide.png" height="35px"/>
+            </td>
+          </tr>
+          <tr>
+            <td align="right">Frontend</td>
+            <td>
+              <img src="https://img.icons8.com/color/48/000000/salesforce.png" height="35px"/>
+              <img src="https://skillicons.dev/icons?i=flutter,dart,html,css" height="35px"/>
+            </td>
+          </tr>
+          <tr>
+            <td align="right">Server</td>
+            <td>
+              <img src="https://skillicons.dev/icons?i=mysql,postgres,docker" height="35px"/>
+              <img src="https://img.icons8.com/color/48/000000/microsoft-sql-server.png" height="35px"/>
+            </td>
+          </tr>
+          <tr>
+            <td align="right">Miscellaneous</td>
+            <td>
+              <img src="https://skillicons.dev/icons?i=linux,bash,git,github,powershell,vscode,visualstudio" height="35px"/>
+            </td>
+          </tr>
+          <tr>
+            <td align="right">Creative</td>
+            <td>
+              <img src="https://skillicons.dev/icons?i=ps" height="35px"/>
+            </td>
+          </tr>
+        </table>
+    </details>
 </div>
