@@ -28,7 +28,7 @@
           <tr>
             <td align="right">Language Set</td>
             <td>
-              <img src="https://skillicons.dev/icons?i=js,nodejs,dotnet,cpp,php,java,c" height="35px"/>
+              <img src="https://skillicons.dev/icons?i=js,nodejs,dotnet,cpp,php,java,cs,c" height="35px"/>
               <img src="https://img.icons8.com/color/48/000000/delphi-ide.png" height="35px"/>
             </td>
           </tr>
@@ -50,7 +50,7 @@
           <tr>
             <td align="right">Miscellaneous</td>
             <td>
-              <img src="https://skillicons.dev/icons?i=linux,bash,git,github,powershell,vscode,visualstudio,postman" height="35px"/>
+              <img src="https://skillicons.dev/icons?i=linux,bash,git,github,powershell,vscode,visualstudio,postman,azure,aws,npm" height="35px"/>
             </td>
           </tr>
           <tr>
