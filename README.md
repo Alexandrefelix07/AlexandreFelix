@@ -6,19 +6,6 @@
 
 </div>
 
-<div align="center">  
-  <div style="display: flex; justify-content: center; align-items: center;">
-    <div style="margin-right: 5px;">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Alexandrefelix07&theme=dark&hide_border=true" style="max-width: 400px; height: 200px; pointer-events: none;">
-      <p><b>Minha sequência de contribuições</b></p>
-    </div>
-    <div>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alexandrefelix07&layout=compact&langs_count=7&theme=dark&hide_border=true" style="max-width: 400px; height: 200px; pointer-events: none;">
-      <p><b>Principais linguagens</b></p>
-    </div>
-  </div>
-</div>
-
  <div align="center">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=Alexandrefelix07&theme=dark&hide_border=true" style="max-width: 400px; height: 200px; pointer-events: none;">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alexandrefelix07&layout=compact&langs_count=7&theme=dark&hide_border=true" style="max-width: 400px; height: 200px; pointer-events: none;">
