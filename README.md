@@ -7,6 +7,8 @@
 </div>
 
 <div align="center">
+  <h2>🔥 GitHub Stats</h2>
+  <p>Veja minhas estatísticas recentes e os principais idiomas que uso em meus repositórios.</p>
   <div style="display: flex; justify-content: center; align-items: center;">
     <div style="margin-right: 20px;">
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=Alexandrefelix07&theme=dark&hide_border=true" style="max-width: 400px; height: 200px; pointer-events: none;">
