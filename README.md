@@ -8,7 +8,7 @@
 
 <div align="center">  
   <div style="display: flex; justify-content: center; align-items: center;">
-    <div style="margin-right: 20px;">
+    <div style="margin-right: 5px;">
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=Alexandrefelix07&theme=dark&hide_border=true" style="max-width: 400px; height: 200px; pointer-events: none;">
       <p><b>Minha sequência de contribuições</b></p>
     </div>
