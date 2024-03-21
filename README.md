@@ -7,8 +7,8 @@
 </div>
 
 <div align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Alexandrefelix07&theme=codeSTACKr&hide_border=true" style="max-width: 5000px; height: 200px; pointer-events: none;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alexandrefelix07&layout=compact&langs_count=7&theme=codeSTACKr&hide_border=true" style="max-width:500px; height: 200px; pointer-events: none;">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Alexandrefelix07&theme=codeSTACKr&hide_border=true" style="max-width: 400px; height: 200px; pointer-events: none;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alexandrefelix07&layout=compact&langs_count=7&theme=codeSTACKr&hide_border=true" style="max-width:400px; height: 200px; pointer-events: none;">
 </div>
 
 <div align="center">
