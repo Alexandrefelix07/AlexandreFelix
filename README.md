@@ -26,14 +26,14 @@
             <th align="left">Technologies</th>
           </tr>
           <tr>
-            <td align="right">Core</td>
+            <td align="right">Language Set</td>
             <td>
               <img src="https://skillicons.dev/icons?i=js,nodejs,dotnet,cpp,php,java,c" height="35px"/>
               <img src="https://img.icons8.com/color/48/000000/delphi-ide.png" height="35px"/>
             </td>
           </tr>
           <tr>
-            <td align="right">Frontend</td>
+            <td align="right">front-end</td>
             <td>
               <img src="https://img.icons8.com/color/48/000000/salesforce.png" height="35px"/>
               <img src="https://skillicons.dev/icons?i=flutter,dart,html,css" height="35px"/>
