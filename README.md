@@ -2,7 +2,7 @@
 
 ## _Olá, seja muito bem-vindo ao meu perfil GitHub!_
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=b1633f&size=35&center=true&vCenter=true&width=1000&lines=Hello,+world!+My+name+is+Alexandre+Felix.;I'm+from+Brazil+and+30+years+old!;Be+Welcome!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=b1633f&size=35&center=true&vCenter=true&width=1000&lines=Be+Welcome!)](https://git.io/typing-svg)
 
 </div>
 
