@@ -6,9 +6,7 @@
 
 </div>
 
-<div align="center">
-  <h2></h2>
-  
+<div align="center">  
   <div style="display: flex; justify-content: center; align-items: center;">
     <div style="margin-right: 20px;">
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=Alexandrefelix07&theme=dark&hide_border=true" style="max-width: 400px; height: 200px; pointer-events: none;">
@@ -20,7 +18,6 @@
     </div>
   </div>
 </div>
-
 
 <div align="center" style="margin-top: 50px;">
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
