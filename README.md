@@ -19,6 +19,11 @@
   </div>
 </div>
 
+ <div align="center">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Alexandrefelix07&theme=dark&hide_border=true" style="max-width: 400px; height: 200px; pointer-events: none;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alexandrefelix07&layout=compact&langs_count=7&theme=dark&hide_border=true" style="max-width: 400px; height: 200px; pointer-events: none;">
+</div>
+
 <div align="center" style="margin-top: 50px;">
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=Alexandrefelix07&bg_color=262627&color=bd9914&line=b0bb63&point=e00000&area=true&hide_border=true" style="max-width: 800px; height: 400px;">
