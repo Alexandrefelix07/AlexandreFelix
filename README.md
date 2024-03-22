@@ -28,7 +28,7 @@
           <tr>
             <td align="right">Language Set</td>
             <td>
-              <img src="https://skillicons.dev/icons?i=js,nodejs,dotnet,cpp,php,java,cs,c" height="35px"/>
+              <img src="https://skillicons.dev/icons?i=js,ts,nodejs,dotnet,cpp,php,java,cs,c" height="35px"/>
               <img src="https://img.icons8.com/color/48/000000/delphi-ide.png" height="35px"/>
             </td>
           </tr>
